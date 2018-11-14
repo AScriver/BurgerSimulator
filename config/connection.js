@@ -8,8 +8,8 @@ if (process.env.JAWSDB_URL) {
   connection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'root',
-    database: 'x3o5fsx5j06c8fhp'
+    password: '',
+    database: 'todolist'
   });
 };
 //changemamskdfas;ldfj
