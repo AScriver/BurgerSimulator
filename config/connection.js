@@ -9,10 +9,10 @@ if (process.env.JAWSDB_URL) {
     host: 'localhost',
     user: 'root',
     password: 'root',
-    database: 'todolist'
+    database: 'x3o5fsx5j06c8fhp'
   });
 };
-
+//changemamskdfas;ldfj
 // Make connection.
 connection.connect(function(err) {
   if (err) {
